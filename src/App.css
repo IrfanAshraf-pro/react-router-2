@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.active{
+  font-size:2rem;
+}
+.inactive{
+  background-color:gray
+}
